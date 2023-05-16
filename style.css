@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+.company-logo {
+    display: inline;
+}
+
+.menu-list ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.search-section {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.card-section {
+    margin-top: 50px;
+}
+
+.card {
+    margin: 10px 0px;
+}
+
+div#details-food {
+    margin: 0 auto;
+    width: 300px;
+    text-align: center;
+}
+
+div#details-food h5 {
+    margin-top: 10px;
+}
